@@ -3,7 +3,7 @@
 - 🌱 Por fora estou aprendendo HTML, CSS, Javascript, etc.
 - 💞️ Estou iniciando e a procura de oportunidades para ingressar nessa área de trabalho
 - 📫 Contato:https://www.linkedin.com/in/matheus-dos-santos-de-oliveira-6803b1169/  Gmail:99matheussan@gmail.com
-- https://c.tenor.com/zanyX7BlixcAAAAM/ok-great.gif
+- <a href="https://c.tenor.com/zanyX7BlixcAAAAM/ok-great.gif">
 
 <!---
 MatheusSan99/MatheusSan99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

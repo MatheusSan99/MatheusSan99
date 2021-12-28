@@ -1,7 +1,7 @@
 - 👋 Olá, seja muito Bem-Vindo(a), me chamo Matheus e sou de Joinville.
 - 👀 Atualmente estudo Análise e Desenvolvimento de Sistemas na Uniasselvi
 - 📈 Por fora estou aprendendo HTML, CSS, Javascript, etc.
-- ❤️ Estou iniciando e a procura de oportunidades para ingressar nessa área de trabalho
+- ❤️ Estou iniciando e a procura de oportunidades.
 - 💬 Me Encontre por aí: <a href="https://www.instagram.com/matheussan_99/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.twitch.tv/god_loki_" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 <a href="mailto:99matheussan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

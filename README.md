@@ -8,7 +8,8 @@
 <a href="https://www.linkedin.com/in/matheus-dos-santos-de-oliveira-6803b1169/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 Obrigado pela visita !!
-![ok-great](https://user-images.githubusercontent.com/96385768/147521772-5e8713ac-21bb-4e0b-a884-145c6479eac1.gif)
+
+![ok-great](https://user-images.githubusercontent.com/96385768/147524222-c71937df-2f19-465e-acef-98f438e25a37.gif)
 
 
 <!---

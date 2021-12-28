@@ -1,4 +1,4 @@
-- 👋 Olá, seja muito Bem-Vindo, me chamo Matheus e sou de Joinville.
+- 👋 Olá, seja muito Bem-Vindo(a), me chamo Matheus e sou de Joinville.
 - 👀 Atualmente estudo Análise e Desenvolvimento de Sistemas na Uniasselvi
 - 📈 Por fora estou aprendendo HTML, CSS, Javascript, etc.
 - ❤️ Estou iniciando e a procura de oportunidades para ingressar nessa área de trabalho

@@ -1,8 +1,10 @@
+
 - 👋 Olá, seja muito Bem-Vindo(a), me chamo Matheus e sou de Joinville.
 - 👀 Atualmente estudo Análise e Desenvolvimento de Sistemas na Uniasselvi
 - 📈 Por fora estou aprendendo HTML, CSS, Java, etc.
 - ❤️ Estou iniciando e a procura de oportunidades.
-- 
+
+<div align="center">
   💬 Me Encontre por aí: <br/><br/>
 
  [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:99matheussan@gmail.com.br)
@@ -10,7 +12,7 @@
  [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matheussan_99/)
  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheussan/)  
  [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5511959216443)    
-</div>
+
 Obrigado pela visita !!
 
 ![ok-great](https://user-images.githubusercontent.com/96385768/147524222-c71937df-2f19-465e-acef-98f438e25a37.gif)

@@ -2,14 +2,14 @@
 - 👀 Atualmente estudo Análise e Desenvolvimento de Sistemas na Uniasselvi
 - 📈 Por fora estou aprendendo HTML, CSS, Java, etc.
 - ❤️ Estou iniciando e a procura de oportunidades.
-- 💬 Me Encontre por aí: <br/><br/>
-<a href="https://www.instagram.com/matheussan_99/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"> 
-                  </a>
-<a href="https://www.twitch.tv/god_loki_"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank">                         </a>
-<a href="mailto:99matheussan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-                  </a>
-<a href="https://www.linkedin.com/in/matheussan/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-                  </a>     
+- 
+  💬 Me Encontre por aí: <br/><br/>
+
+ [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:99matheussan@gmail.com.br)
+ [![Steam Badge](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/Matheus_San/)
+ [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matheussan_99/)
+ [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheussan/)  
+ [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5511959216443)    
 </div>
 Obrigado pela visita !!
 

@@ -5,7 +5,8 @@
 - ❤️ Estou iniciando e a procura de oportunidades.
 
 <div align="center">
-  💬 Me Encontre por aí: <br/><br/>
+  
+ ## 💬 Me Encontre por aí: <br/><br/>
 
  [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:99matheussan@gmail.com.br)
  [![Steam Badge](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/Matheus_San/)

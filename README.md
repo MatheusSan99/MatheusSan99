@@ -1,7 +1,7 @@
 
 - 👋 Olá, seja muito Bem-Vindo(a), me chamo Matheus e sou de Joinville.
 - 👀 Atualmente estudo Análise e Desenvolvimento de Sistemas na Uniasselvi
-- 📈 Por fora estou aprendendo HTML, CSS, Javascript, etc.
+- 📈 Por fora estou aprendendo PHP, Javascript, HTML e CSS.
 - ❤️ Estou iniciando e a procura de oportunidades.
 
 <div align="center">

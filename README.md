@@ -6,19 +6,16 @@
 </div>
 
 
-## :books: My skills
+### Work Experience
+In the overview below, you will find my most recent work experience:
 
-<p align="center">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/php.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/frameworks/laravel.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/languages/js.svg" alt="example badge" style="vertical-align:top margin:6px 4px"> 
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/languages/html.svg" alt="example badge" style="vertical-align:top margin:6px 4px"> 
-   
-<div align="center">
+[<img align="left" height="94px" width="94px" alt="UltraLIMS" src="https://media.licdn.com/dms/image/C4D0BAQFUSfKTpvGZuQ/company-logo_200_200/0/1614693536148?e=1706745600&v=beta&t=XN1P8IALB6MTUU-cfCFY0F2K29NlRdtVbSC0cOuf4mQ"/>]([https://ultralims.com.br/front/images/ultra/foto_1.png](https://www.linkedin.com/company/ultra-lims/?originalSubdomain=br))
 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
+**Back End Developer** \
+[**UltraLims**](https://ultralims.com.br/) • Full-time \
+Skills: `PHP`, `MySQL`, `JavaScript`, `Docker`, `API`,\
+My personal projects during this time: [Translator API](https://github.com/MatheusSan99/AutoBotTranslatorAPI), [Abastece Facil](https://github.com/MatheusSan99/AbasteceFacilAPI)
+<br/>
 </div>
 <br/>
   
@@ -49,17 +46,10 @@
   </a>
  </p>
 
-<p align="center">
-     <img src="https://images8.alphacoders.com/431/thumbbig-431230.webp"  alt="example badge" style="vertical-align:top margin:6px 4px>
-</p>
-
-
-
-
 <!---
 MatheusSan99/MatheusSan99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MatheusSan99&theme=dark&hide_border=true&date_format=%5BY%20%5DM%20j&fire=AA1313)](https://git.io/streak-stats)
 
-  ![Snake animation](https://github.com/MatheusSan99/MatheusSan99/blob/output/github-contribution-grid-snake.svg)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MatheusSan99)](https://github.com/anuraghazra/github-readme-stats) alt="Github stats" />

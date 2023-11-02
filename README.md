@@ -5,7 +5,6 @@
 
 </div>
 
-
 ### Work Experience
 In the overview below, you will find my most recent work experience:
 
@@ -16,9 +15,10 @@ In the overview below, you will find my most recent work experience:
 Skills: `PHP`, `MySQL`, `JavaScript`, `Docker`, `API`,\
 My personal projects during this time: [Translator API](https://github.com/MatheusSan99/AutoBotTranslatorAPI), [Abastece Facil](https://github.com/MatheusSan99/AbasteceFacilAPI)
 <br/>
-</div>
+
 <br/>
-  
+
+<div align="center">
  ## 💬📫 How to Reach Me: <br/>
 
 <p align="center">
@@ -46,10 +46,7 @@ My personal projects during this time: [Translator API](https://github.com/Mathe
   </a>
  </p>
 
-<!---
-MatheusSan99/MatheusSan99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MatheusSan99&theme=dark&hide_border=true&date_format=%5BY%20%5DM%20j&fire=AA1313)](https://git.io/streak-stats)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MatheusSan99)](https://github.com/anuraghazra/github-readme-stats) alt="Github stats" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheussan99&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+

@@ -8,7 +8,7 @@
 ### Work Experience
 In the overview below, you will find my most recent work experience:
 
-[<img align="left" height="94px" width="94px" alt="UltraLIMS" src="https://media.licdn.com/dms/image/C4D0BAQFUSfKTpvGZuQ/company-logo_200_200/0/1614693536148?e=1706745600&v=beta&t=XN1P8IALB6MTUU-cfCFY0F2K29NlRdtVbSC0cOuf4mQ"/>]([https://ultralims.com.br/front/images/ultra/foto_1.png](https://www.linkedin.com/company/ultra-lims/?originalSubdomain=br))
+[<img align="left" height="94px" width="94px" alt="UltraLIMS" src="https://media.licdn.com/dms/image/C4D0BAQFUSfKTpvGZuQ/company-logo_200_200/0/1630519197774/ultra_lims_logo?e=1720051200&v=beta&t=yVJKlh2O06OE4-NWFRyE32RhsbmZsIFzwVGTSoK2hY0"/>]([https://ultralims.com.br/front/images/ultra/foto_1.png](https://www.linkedin.com/company/ultra-lims/?originalSubdomain=br))
 
 **Back End Developer** \
 [**UltraLims**](https://ultralims.com.br/) • Full-time \

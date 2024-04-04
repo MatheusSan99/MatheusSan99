@@ -12,7 +12,7 @@ In the overview below, you will find my most recent work experience:
 
 **Back End Developer** \
 [**UltraLims**](https://ultralims.com.br/) • Full-time \
-Skills: `PHP`, `MySQL`, `JavaScript`, `Docker`, `API`,\
+Skills: `MVC`, `CleanCode`, ``, `CI/CD`, `Microsservices`,\
 My personal projects during this time: [Translator API](https://github.com/MatheusSan99/AutoBotTranslatorAPI), [Abastece Facil](https://github.com/MatheusSan99/AbasteceFacilAPI)
 <br/>
 

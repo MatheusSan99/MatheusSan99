@@ -8,12 +8,14 @@
 ### Work Experience
 In the overview below, you will find my most recent work experience:
 
-[<img align="left" height="94px" width="94px" alt="UltraLIMS" src="https://media.licdn.com/dms/image/C4D0BAQFUSfKTpvGZuQ/company-logo_200_200/0/1630519197774/ultra_lims_logo?e=1720051200&v=beta&t=yVJKlh2O06OE4-NWFRyE32RhsbmZsIFzwVGTSoK2hY0"/>]([https://ultralims.com.br/front/images/ultra/foto_1.png](https://www.linkedin.com/company/ultra-lims/?originalSubdomain=br))
+[<img align="left" height="94px" width="94px" alt="SoftExpert" src="https://s3.us-east-1.amazonaws.com/site-prd-strapi/logo_softexpert_branca_090fa5c651.svg"/>](https://www.linkedin.com/company/softexpert/)
 
 **Back End Developer** \
-[**UltraLims**](https://ultralims.com.br/) • Full-time \
+[**SoftExpert**](https://softexpert.com.br/) • Full-time \
 Skills: `MVC`, `CleanCode`, `TeamWork`, `CI/CD`, `Microsservices`,\
-My personal project during this time: [CheckPrice](https://github.com/MatheusSan99/CheckPriceAPI)<br/>
+My personal project during this time: [Top150LetCode](https://github.com/MatheusSan99/Top150LetCode)<br/>
+[AlgorithmsTraining](https://github.com/MatheusSan99/AlgorithmsTraining)<br/>
+[CheckPrice](https://github.com/MatheusSan99/CheckPriceAPI)<br/>
 
 <br/>
 

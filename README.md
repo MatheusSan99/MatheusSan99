@@ -12,7 +12,7 @@ In the overview below, you will find my most recent work experience:
 
 **Back End Developer** \
 [**SoftExpert**](https://softexpert.com.br/) • Full-time \
-Skills: `MVC`, `CleanCode`, `TeamWork`, `CI/CD`, `Microsservices`,\
+Skills: `DDD`, `TDD`, `Design Patterns`, `CleanCode`, `TeamWork`, `Microsservices`,\
 My personal project during this time: [Top150LetCode](https://github.com/MatheusSan99/Top150LetCode)<br/>
 [AlgorithmsTraining](https://github.com/MatheusSan99/AlgorithmsTraining)<br/>
 [CheckPrice](https://github.com/MatheusSan99/CheckPriceAPI)<br/>

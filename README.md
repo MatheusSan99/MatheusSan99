@@ -8,10 +8,10 @@
 ### Work Experience
 In the overview below, you will find my most recent work experience:
 
-[<img align="left" height="94px" width="94px" alt="SoftExpert" src="https://s3.us-east-1.amazonaws.com/site-prd-strapi/logo_softexpert_branca_090fa5c651.svg"/>](https://www.linkedin.com/company/softexpert/)
+[<img align="left" height="94px" width="94px" alt="VExpenses" src="https://vexpenses.com.br/blog/wp-content/uploads/2024/06/footer-logo.svg"/>](https://www.linkedin.com/company/vexpenses/)
 
 **Back End Developer** \
-[**SoftExpert**](https://softexpert.com.br/) • Full-time \
+[**VExpenses**](https://vexpenses.com.br) • Full-time \
 Skills: `DDD`, `TDD`, `Design Patterns`, `CleanCode`, `TeamWork`, `Microsservices`,\
 My personal project during this time: [Top150LetCode](https://github.com/MatheusSan99/Top150LetCode)<br/>
 [AlgorithmsTraining](https://github.com/MatheusSan99/AlgorithmsTraining)<br/>
